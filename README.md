@@ -1,6 +1,6 @@
 ### Hi there, I'm Gui Anacleto 👋
 
-Gosto de estar sempre estudando e testando novas ideias, você pode me acompanhar aqui no github, sempre vou estar subindo meus desafios pessoais aqui!
+I like to be always studying and testing new ideas, you can follow me here on github, I will always be raising my personal challenges here!
 
 <p align="left">
 - 🌱 I’m currently learning everything 🤣<br>

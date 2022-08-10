@@ -1,11 +1,15 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  - Work experience with projects, data engineering and software Engineering:
-  - Work experience in Data Visualization ( Power BI ).
-  - Work experience in Data Analysis.
-  - Solid knowledge in programation ( Python, SQL and C# ).
-  - Academic experience implementing a machine learning model to improve the traffic light system, solving the traffic jam problem in cities (in progress).
+  Work experience with projects, data engineering and software Engineering:
+
+- Work experience in Data Visualization ( Power BI ).
+
+- Work experience in Data Analysis.
+
+- Solid knowledge in programation ( Python, SQL and C# ).
+
+- Academic experience implementing a machine learning model to improve the traffic light system, solving the traffic jam problem in cities (in progress).
 </p>
 
 <p align="left">
